@@ -1,16 +1,41 @@
-# flutterapp7
+<h1 align="center">AdMob + Flutter</h1>
 
-A new Flutter application.
+<div align= "center">
+  <h4>AdMob integration wth Flutter using Firebase</h4>
+</div>
 
-## Getting Started
+## :point_down: Support me here!
+<a href="https://www.buymeacoffee.com/Snehal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-This project is a starting point for a Flutter application.
+## :movie_camera: Ads Added
+- Banner Ads
+- Video Ads
+- Interstitial Ads
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## :hourglass: Result
+<img src="https://github.com/Snehal-Singh174/AdMobIntegration2Flutter/blob/main/admob.png" width="800"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :warning: TechStack/framework used
+
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Android Studio](https://developer.android.com/studio)
+
+
+## 🚀&nbsp; Installation
+1. Clone the repo and run it
+```
+$ git clone https://github.com/Snehal-Singh174/AdMobIntegration2Flutter.git
+$ cd AdMobIntegration2Flutter/
+$ flutter run
+```
+
+## :clap: And it's done!
+Feel free to mail me for any doubts/query 
+:email: singhsnehal174@gmail.com
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Snehal Singh](https://github.com/Snehal-Singh174)
+
+
