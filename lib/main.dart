@@ -1,12 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp7/home_page.dart';
+import 'package:flutter_admob/home_screen.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-void main() async{
-  return runApp(MyApp());
+
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  MobileAds.instance.initialize();
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  static const String _title = 'Flutter Code Sample';
+  static const String _title = 'Flutter Admob';
 
   @override
   Widget build(BuildContext context) {
