@@ -14,7 +14,7 @@
 
 
 ## :hourglass: Result
-<img src="https://github.com/Snehal-Singh174/AdMobIntegration2Flutter/blob/main/admob.png" width="800"/>
+<img src="https://github.com/Snehal-Singh174/AdMobIntegration2Flutter/blob/main/1_OaqwuS6y9yrd9xlov7c4vw.png" width="800"/>
 
 ## :warning: TechStack/framework used
 
