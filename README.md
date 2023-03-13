@@ -19,7 +19,6 @@
 ## :warning: TechStack/framework used
 
 - [Flutter](https://flutter.dev/)
-- [Firebase](https://firebase.google.com/)
 - [Android Studio](https://developer.android.com/studio)
 
 
