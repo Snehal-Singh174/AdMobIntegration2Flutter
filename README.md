@@ -16,6 +16,7 @@
 ## :hourglass: Result
 <img src="https://github.com/Snehal-Singh174/AdMobIntegration2Flutter/blob/main/1_OaqwuS6y9yrd9xlov7c4vw.png" width="800"/>
 
+
 ## :warning: TechStack/framework used
 
 - [Flutter](https://flutter.dev/)
@@ -31,8 +32,9 @@ $ flutter run
 ```
 
 ## :clap: And it's done!
-Feel free to mail me for any doubts/query 
+Feel free to mail me for any query 
 :email: singhsnehal174@gmail.com
+
 
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Snehal Singh](https://github.com/Snehal-Singh174)
